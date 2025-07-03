@@ -5,7 +5,9 @@ function App() {
 
   return (
     <>
-      <h1 className="app">TO-DO APP</h1>
+      <div className="heading-wrapper">
+        <h1 className="main-heading">TASK MANAGER</h1>
+      </div>
       <Todo/>
     </>
   )
