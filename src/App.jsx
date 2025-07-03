@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h2>TO-DO APP</h2>
+      <h1 className="app">TO-DO APP</h1>
       <Todo/>
     </>
   )
